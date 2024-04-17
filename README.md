@@ -32,7 +32,7 @@ With years of experience as a research scientist, I am not afraid to take on new
 💬 Feel free to contact me! You can find me on:
 
 - 📧 cdeandresgil@gmail.com
-- 💼 [LinkedIn](www.linkedin.com/in/cristinadeandres)
+- 💼 [LinkedIn](https://www.linkedin.com/in/cristinadeandres)
 
 
 Thanks for visiting my profile!
