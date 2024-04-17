@@ -4,7 +4,7 @@
 
 #### I'm Cristina, a PhD in the field of genetics 🧬 and passionate about data analysis and data science 📊. 
 
-##### With years of experience as a research scientist, I am not afraid to take on new challenges. Always learning and exploring new technologies and tools, I am determined to dive into the wonderful world of Data🚀.
+With years of experience as a research scientist, I am not afraid to take on new challenges. Always learning and exploring new technologies and tools, I am determined to dive into the wonderful world of Data🚀.
 
 **Here you'll find some of my projects and contributions to the open source community:**
 
