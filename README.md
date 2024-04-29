@@ -10,7 +10,7 @@ With years of experience as a research scientist, I am not afraid to take on new
 
 - 🏛️ [Project 1](https://github.com/CrisDAndres/proyecto_airbnb): Analysis of Airbnb data for the city of Rome.
 - 🚢 [Project 2](https://github.com/CrisDAndres/proyecto_titanic): Processing and analysis of the Titanic dataset.
-<!-- - ⚡ [Project 3]: Brief description or link to the project. -->
+- 🌱 [Project 3]:(https://github.com/CrisDAndres/proyecto_agrotech): Data extraction, pre-processing, EDA & implementation of ML models to develop a crop recommendation and yield prediction application.
 
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
@@ -37,7 +37,8 @@ With years of experience as a research scientist, I am not afraid to take on new
 
 Thanks for visiting my profile!
 
-# 📊 GitHub Stats:
+---
+### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=CrisDAndres&theme=buefy&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=CrisDAndres&theme=buefy&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=CrisDAndres&theme=buefy&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
