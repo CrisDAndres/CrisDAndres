@@ -2,7 +2,7 @@
 
 ### Welcome to my GitHub profile. 
 
-#### I'm Cristina, a PhD in the field of genetics 🧬 and passionate about data analysis and data science 📊. 
+#### I'm Cristina, a PhD in the field of plant genetics 🌱🧬 and passionate about data analysis and data science 📊. 
 
 With years of experience as a research scientist, I am not afraid to take on new challenges. Always learning and exploring new technologies and tools, I am determined to dive into the wonderful world of Data🚀.
 
@@ -37,4 +37,12 @@ With years of experience as a research scientist, I am not afraid to take on new
 
 Thanks for visiting my profile!
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=CrisDAndres&theme=buefy&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=CrisDAndres&theme=buefy&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=CrisDAndres&theme=buefy&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+---
+[![](https://visitcount.itsvg.in/api?id=CrisDAndres&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
