@@ -10,7 +10,7 @@ With years of experience as a research scientist, I am not afraid to take on new
 
 - 🏛️ [Project 1](https://github.com/CrisDAndres/proyecto_airbnb): Analysis of Airbnb data for the city of Rome.
 - 🚢 [Project 2](https://github.com/CrisDAndres/proyecto_titanic): Processing and analysis of the Titanic dataset.
-- 🌱 [Project 3](https://github.com/CrisDAndres/proyecto_agrotech): Data extraction, pre-processing, EDA & implementation of ML models to develop a crop recommendation and yield prediction application.
+- 🌱 [Project 3](https://github.com/CrisDAndres/proyecto_agrotech): AgriTech project. Data extraction, pre-processing, EDA & implementation of ML models to develop a crop recommendation and yield prediction application.
 
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
