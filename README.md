@@ -12,7 +12,7 @@ With years of experience as a research scientist, I am not afraid to take on new
 - 🚢 [Project 2](https://github.com/CrisDAndres/proyecto_titanic): Processing and analysis of the Titanic dataset.
 - 🌱 [Project 3](https://github.com/CrisDAndres/proyecto_agrotech): AgriTech project. Data extraction, pre-processing, EDA & implementation of ML models to develop a crop recommendation and yield prediction application.
 
-### Tech Stack  
+## Tech Stack 💻
 
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
@@ -34,6 +34,7 @@ With years of experience as a research scientist, I am not afraid to take on new
 💬 Feel free to contact me! You can find me on:
 
 📧 cdeandresgil@gmail.com
+<a href="https://www.linkedin.com/in/cristinadeandres"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
 <p align="left">
   <a href="https://www.linkedin.com/in/cristinadeandres">
     <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/linkedin.webp" height="35px" style="margin: 5px;" />
