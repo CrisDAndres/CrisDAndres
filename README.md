@@ -33,7 +33,9 @@ With years of experience as a research scientist, I am not afraid to take on new
 ---
 💬 Feel free to contact me! You can find me on:
 
-<h1>📧</h1> cdeandresgil@gmail.com
+<a href="mailto:cdeandresgil@gmail.com">
+  <h1>📧</h1>
+</a>
 <a href="https://www.linkedin.com/in/cristinadeandres"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="35px"/></a>
 
 Thanks for visiting my profile!
