@@ -33,9 +33,8 @@ With years of experience as a research scientist, I am not afraid to take on new
 ---
 💬 Feel free to contact me! You can find me on:
 
-<span style="font-size: 55px;">📧</span>
-
-<a href="https://www.linkedin.com/in/cristinadeandres"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="35px"/></a>
+📧 cdeandresgil@gmail.com
+<a href="https://www.linkedin.com/in/cristinadeandres"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="30px"/></a>
 
 Thanks for visiting my profile!
 
