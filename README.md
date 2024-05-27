@@ -9,7 +9,7 @@ With years of experience as a research scientist, I am not afraid to take on new
 **Here you'll find some of my projects and contributions to the open source community:**
 
 - 🏛️ [Project 1](https://github.com/CrisDAndres/proyecto_airbnb): Analysis of Airbnb data for the city of Rome (rental trends, prices and tourist flows), including Natural Language Processing (NLP) and implemented regression model for price forecasting. 
-- 🚢 [Project 2](https://github.com/CrisDAndres/proyecto_titanic): Processing and analysis of the Titanic dataset.
+- 🚢 [Project 2](https://github.com/CrisDAndres/proyecto_titanic): Processing and analysis of the Titanic dataset, including extensive data pre-processing. Implementation of classification models for passenger survival prediction.
 - 🌱 [Project 3](https://github.com/CrisDAndres/proyecto_agrotech): AgriTech project. Data extraction, pre-processing, EDA & implementation of ML models to develop a crop recommendation and yield prediction application.
 - 📌 [PowerBI Portfolio](https://my.novypro.com/cristina-de-andrés): Some of the interactive data visualisation reports created with powerBI.
 
