@@ -12,6 +12,7 @@ With years of experience as a research scientist, I am not afraid to take on new
 - 🚢 [Project 2](https://github.com/CrisDAndres/proyecto_titanic): Analysis of the Titanic dataset, including extensive data pre-processing. Implementation of classification models for passenger survival prediction.
 - 🌱 [Project 3](https://github.com/CrisDAndres/proyecto_agrotech): AgriTech project. Data extraction, pre-processing, EDA & implementation of ML models to develop a crop recommendation and yield prediction application.
 - 📌 [PowerBI Portfolio](https://github.com/CrisDAndres/powerBI_portfolio): Some of the interactive data visualisation reports created with powerBI.
+# - 🧠 [Neural Network projects](https://github.com/CrisDAndres/Redes_Neuronales_Convolucionales): Projects focused on convolutional neural networks (CNNs) used for image recognition.
 
 ## Tech Stack 💻
 
@@ -22,7 +23,7 @@ With years of experience as a research scientist, I am not afraid to take on new
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B.svg?style=for-the-badge&logo=Streamlit&logoColor=white)
 ![Scikit](https://img.shields.io/badge/scikitlearn-F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Scipy](https://img.shields.io/badge/SciPy-8CAAE6.svg?style=for-the-badge&logo=SciPy&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-F7F7F7?style=for-the-badge&logo=tensorflow&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-BA68C8?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-FF6F00?style=for-the-badge&logo=keras&logoColor=white)
 ![Folium](https://img.shields.io/badge/Folium-77B829.svg?style=for-the-badge&logo=Folium&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
