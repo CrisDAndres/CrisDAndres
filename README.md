@@ -12,6 +12,7 @@ With years of experience as a research scientist, I am not afraid to take on new
 - 🚢 [Project 2](https://github.com/CrisDAndres/proyecto_titanic): Analysis of the Titanic dataset, including extensive data pre-processing. Implementation of classification models for passenger survival prediction.
 - 🌱 [Project 3](https://github.com/CrisDAndres/proyecto_agrotech): AgriTech project. Data extraction, pre-processing, EDA & implementation of ML models to develop a crop recommendation and yield prediction application.
 - 🧠 [Convolutional Neural Network project](https://github.com/CrisDAndres/Redes_Neuronales_Convolucionales_II): Project focused on Convolutional Neural Networks (CNNs) used for plant biotic stress classification.
+- 🗄️ [SQL projects portfolio](https://github.com/CrisDAndres/SQL_challenge): SQL projects with advanced queries to solve practical cases.
 - 📌 [PowerBI Portfolio](https://github.com/CrisDAndres/powerBI_portfolio): Some of the interactive data visualisation reports created with powerBI.
 
 ## Tech Stack 💻
@@ -31,6 +32,7 @@ With years of experience as a research scientist, I am not afraid to take on new
 ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![SQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sql&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
 ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
